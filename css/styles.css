@@ -528,7 +528,9 @@ a:hover {
   .head1 {
     font-size: 50px !important;
   }
-
+ .parallax-window {
+    display: none;
+  }
   .aboutme-image {
     width: 300px;
     height: 300px;
